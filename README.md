@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# `printf("Hello, gente");` <img src="https://c.tenor.com/JGEE8QEpQFkAAAAC/duck.gif" height="40" width="73">
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-pinheiro-5475a7217/) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/287303671904206849/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:college1359@gmail.com)
+### Sobre
+Estudante do curso de **Análise e Desenvolvimento de Sistemas** e consultor na empresa júnior **Loopis Jr**.
+### ⌨️ Aprendendo e desenvolvendo em 🖱️
+- C 🎈
+- <span><<span> HTML >, { CSS } e .( JS ) ✨
 <!--
 **CaioPin/CaioPin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
